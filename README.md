@@ -1,4 +1,4 @@
-##Heroes Of Pymoli Data Analysis
+## Heroes Of Pymoli Data Analysis
 
 * Out of the 780 surveyed, the vast majority that play this game are male (81%)
 
